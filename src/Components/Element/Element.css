@@ -1,0 +1,24 @@
+.Element {
+    height: 400px;
+    width: 400px;
+    outline: 1px solid red;
+    margin: 10px 110px;
+    display: inline-block;
+    text-align: center;
+}
+
+.Element__photo {
+    width: 400px;
+    height: 400px;
+}
+
+.Element__photo-text {
+ 
+}
+
+@media screen and (max-width: 590px) {
+    .Element {
+        flex-direction: column;
+        max-width: 300px;
+    }
+}

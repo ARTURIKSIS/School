@@ -1,0 +1,68 @@
+.footer{
+    outline: 1px solid red;
+    max-width: 100%;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.footer__container {
+    text-align: start;
+}
+
+.footer__label {
+    max-width: 100%;
+    color: rgb(248, 239, 239);
+    font-family: "Inter", "Arial", sans-serif;
+    max-width: 600px;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1;
+    margin: 0 auto;
+}
+
+.footer__list {
+    list-style-type: none;
+    max-width: 100%;
+    margin: 10px auto 0;
+    padding: 0;
+}
+
+.footer__list-element {
+    color: rgb(248, 239, 239);
+    font-family: "Inter", "Arial", sans-serif;
+    max-width: 600px;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1;
+    opacity: 0.7;
+    transition: 0.5s;
+}
+
+.footer__list-element:hover {
+    opacity: 1;
+    scale: 1.1;
+    cursor: pointer;
+}
+
+.footer__logo {
+    background-size: cover;
+    width: 250px;
+    background-image: url("gerb_ministerstva_oborony.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 590px) {
+    .footer {
+        flex-direction: column;
+    }
+    .footer__logo {
+        min-height: 150px;
+        margin: 0 auto;
+    }
+    .footer__container {
+        text-align: center;
+    }
+}
