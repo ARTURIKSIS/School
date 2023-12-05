@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ARTURIKSIS/School/static/css/main.2d2fde8b.css",
+    "main.js": "/ARTURIKSIS/School/static/js/main.563a3ca8.js",
+    "static/js/787.93c472bf.chunk.js": "/ARTURIKSIS/School/static/js/787.93c472bf.chunk.js",
+    "static/media/ezgif.com-video-to-gif.gif": "/ARTURIKSIS/School/static/media/ezgif.com-video-to-gif.bf898fa95b05f24c9cf4.gif",
+    "static/media/kartinki-bespilotniki.jpg": "/ARTURIKSIS/School/static/media/kartinki-bespilotniki.fdb28af8e88515b1d1f6.jpg",
+    "static/media/funny bpla.jpeg": "/ARTURIKSIS/School/static/media/funny bpla.f783e01971a07c305018.jpeg",
+    "static/media/bpla.jpeg": "/ARTURIKSIS/School/static/media/bpla.1a8979e451c81ca3adf3.jpeg",
+    "static/media/gerb_ministerstva_oborony.svg": "/ARTURIKSIS/School/static/media/gerb_ministerstva_oborony.80a5afda0683ecae3f9f.svg",
+    "static/media/drone.jpeg": "/ARTURIKSIS/School/static/media/drone.82e47784ad3df5215ef4.jpeg",
+    "static/media/Inter-Medium.woff": "/ARTURIKSIS/School/static/media/Inter-Medium.44e343ff76a98508d309.woff",
+    "static/media/Inter-Black.woff": "/ARTURIKSIS/School/static/media/Inter-Black.87c06fd2ac7128c9a81d.woff",
+    "static/media/Inter-Regular.woff": "/ARTURIKSIS/School/static/media/Inter-Regular.0d6f7c99e635f1fec4c9.woff",
+    "static/media/Inter-Medium.woff2": "/ARTURIKSIS/School/static/media/Inter-Medium.01f03178adde434fc9fa.woff2",
+    "static/media/Inter-Black.woff2": "/ARTURIKSIS/School/static/media/Inter-Black.ed17840f58cc8c61635a.woff2",
+    "static/media/Inter-Regular.woff2": "/ARTURIKSIS/School/static/media/Inter-Regular.bd097ceff83f90802a12.woff2",
+    "index.html": "/ARTURIKSIS/School/index.html",
+    "main.2d2fde8b.css.map": "/ARTURIKSIS/School/static/css/main.2d2fde8b.css.map",
+    "main.563a3ca8.js.map": "/ARTURIKSIS/School/static/js/main.563a3ca8.js.map",
+    "787.93c472bf.chunk.js.map": "/ARTURIKSIS/School/static/js/787.93c472bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d2fde8b.css",
+    "static/js/main.563a3ca8.js"
+  ]
+}
