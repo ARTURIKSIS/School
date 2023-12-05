@@ -1,21 +1,32 @@
 .Element {
     height: 300px;
     width: 500px;
-    outline: 1px solid red;
-    margin: 10px 30px;
+    margin: 20px 30px;
     display: inline-block;
     text-align: center;
     object-fit: cover;
+    box-sizing: border-box;
 }
 
 .Element__photo {
     width: 100%;
     height: 100%;
+    border-radius: 10%;
 }
 
-@media screen and (max-width: 700px) {
+.Element__label {
+    color: rgb(240, 226, 226);
+    font-family: "Inter", "Arial", sans-serif;
+    max-width: 500px;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 1.5;
+    text-align: center;
+}
+
+@media screen and (max-width: 600px) {
     .Element{
-        max-width: 400px;
-        margin: 10px 10px;
+        margin: 10px auto;
+        max-width: 100%;
     }
 }
