@@ -1,12 +1,9 @@
-import "./Element.css"
+import "./Element.css";
 
-function Element(){
+function Element({photo}){
     return (
         <div className="Element">
-                <img className="Element__photo" src="bpla.jpeg" alt="No"/>
-                <p className="Element__photo-text">
-                    название фото
-                </p>
+                <img className="Element__photo" src={photo} alt="No"/>
             <div className="Element__label">       
             </div>
         </div>
